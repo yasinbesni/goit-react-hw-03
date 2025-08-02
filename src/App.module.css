@@ -1,0 +1,12 @@
+.mainContainer {
+  max-width: 1280px;
+  margin: auto;
+  text-align: center;
+}
+ul{ 
+  list-style-type:none;
+}
+
+body {
+  background-color: darkgray;
+}
